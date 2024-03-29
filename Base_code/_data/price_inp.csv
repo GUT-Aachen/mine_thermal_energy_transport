@@ -1,0 +1,8 @@
+﻿name,maintenance_cost,nominal_cost,variable_cost,lifetime
+ashp,77.5,0,256.8,15
+boiler,217.7,4422.2,0,20
+el_heat,27.2,3051.3,0,20
+heat_ex,55.6,3401.7,170.1,25
+cen_wshp,0,335.9,725,20
+decen_wshp,0,3627,932.1,20
+cen_he,0.51,0,102,25
